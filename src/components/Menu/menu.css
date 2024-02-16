@@ -1,0 +1,18 @@
+
+			
+.menu-opcoes ul	{
+    font-size: 15px;
+}
+.menu-opcoes a	{
+        color: #003366;
+}
+.menu-opcoes ul li	{
+    display:	inline;
+    margin-left: 20px;
+}
+.menu-opcoes	{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
